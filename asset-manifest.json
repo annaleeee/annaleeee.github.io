@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expense-manager/static/css/main.f7564dad.css",
+    "main.js": "/expense-manager/static/js/main.7b4f1997.js",
+    "index.html": "/expense-manager/index.html",
+    "main.f7564dad.css.map": "/expense-manager/static/css/main.f7564dad.css.map",
+    "main.7b4f1997.js.map": "/expense-manager/static/js/main.7b4f1997.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7564dad.css",
+    "static/js/main.7b4f1997.js"
+  ]
+}
