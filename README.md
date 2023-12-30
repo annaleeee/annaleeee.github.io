@@ -5,9 +5,10 @@ by.udemy React 완벽 가이드
 <br>
 
 ## [기능 구현] 
-<br>
-  <img src="./README_img/Add-New-Expense.png">
-  <img src="./README_img/Add-Expense.png">
+
+#### 1️⃣ 비용 추가하기
+  <img src="./README_img/Add-New-Expense.png" width="80%">
+  <img src="./README_img/Add-Expense.png" width="80%">
   
 
 ## [느낀 점]
