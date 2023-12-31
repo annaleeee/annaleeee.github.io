@@ -9,6 +9,9 @@ by.udemy React 완벽 가이드
 #### 1️⃣ 비용 추가하기
   <img src="./README_img/Add-New-Expense.png" width="80%">
   <img src="./README_img/Add-Expense.png" width="80%">
+<br>
+
+#### 2️⃣ 연도 선택하기
   
 
 ## [느낀 점]
